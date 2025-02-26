@@ -1,0 +1,49 @@
+- title: "Improved Learning in Multi-Agent Pursuer-Evader UAV Scenarios via Mechanism Design and Deep Reinforcement Learning"
+  authors: "Cabral, Kleber and Delamer, Jean-Alexis and Rabbath, Camille-Alain and Lechevin, Nicolas and Williams, Craig and Givigi, Sidney"
+  journal: "2024 International Conference on Unmanned Aircraft Systems (ICUAS)"
+  year: 2024
+
+- title: "Graph Neural Network to Solve the Dynamic Emergency Vehicles Routing Problems"
+  authors: "Delamer, Jean-Alexis and Cupido, Kyran and Givigi, Sidney"
+  journal: "2024 IEEE International Systems Conference (SysCon)"
+  year: 2024
+
+- title: "Design of a decentralized strategy for layered self-assembly of 3D structures using robotic blocks"
+  authors: "Cabral, Kleber Macedo and Kaykobad, Mohammad and Delamer, Jean-Alexis and Jardine, P Travis and Givigi, Sidney N"
+  journal: Journal of Intelligent & Robotic Systems
+  year: 2023
+
+- title: "A System Based on Deep-Learning for Dynamic Routing problems"
+  authors: "Delamer, Jean-Alexis and Givigi, Sidney N"
+  journal: "2022 IEEE International Systems Conference (SysCon)"
+  year: 2022
+
+- title: "Controller Based Interactive Proof to Ensure Trust in Multi-Agent Systems"
+  authors: "Delamer, Jean-Alexis and Givigi, Sidney N"
+  journal: "IEEE Transactions on Automatic Control"
+  year: 2022
+
+- title: "A MARL Approach for Optimizing Positions of VANET Aerial Base-Stations on a Sparse Highway"
+  authors: "Jiang, Bote and Givigi, Sidney N and Delamer, Jean-Alexis"
+  journal: "IEEE Access"
+  year: 2021
+
+- title: "Safe path planning for UAV urban operation under GNSS signal occlusion risk"
+  authors: "Delamer, Jean-Alexis and Watanabe, Yoko and Chanel, Caroline PC"
+  journal: "Robotics and Autonomous Systems"
+  year: 2021
+
+- title: "Trust in Multi-Vehicle Systems Using MDP Control Strategies"
+  authors: "Delamer, Jean-Alexis and Givigi, Sidney"
+  journal: "IEEE International Conference on Systems, Man, and Cybernetics (SMC)"
+  year: 2020
+
+- title: "Entropy-based adaptive exploit-explore coefficient for Monte-Carlo path planning"
+  authors: "Carmo, Ana Raquel and Delamer, Jean-Alexis and Watanabe, Yoko and Ventura, Rodrigo and Chanel, Caroline PC"
+  journal: "9th International Conference on Prestigious Applications of Intelligent Systems (PAIS)"
+  year: 2020
+
+- title: "Solving path planning problems in urban environments based on a priori sensors availabilities and execution error propagation"
+  authors: "Delamer, Jean-Alexis and Watanabe, Yoko and Chanel, Caroline PC"
+  journal: "AIAA Scitech 2019 Forum"
+  year: 2019

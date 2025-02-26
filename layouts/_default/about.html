@@ -1,0 +1,10 @@
+{{ define "main" }}
+
+    <h1>{{ .Title }}</h1>
+    {{ $image := .Resources.Get "jean-alexis.jpeg" }}
+    {{ $image := $image.Resize "200x" }}
+    <div class="about-content">
+        <img src="{{ $image.RelPermalink }}"/>
+        {{- .Content -}}
+    </div>
+{{ end }}

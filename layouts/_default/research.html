@@ -1,0 +1,16 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  <h2>Publications</h2>
+  <ul>
+    {{ range .Site.Data.papers }}
+    <li><ul>
+        <h3>({{ .year }}) {{ .title }}</h3>
+        <li><strong>Authors:</strong> {{ .authors }}</li>
+        <li><strong>Published in:</strong> {{ .journal }}</li>
+        <p></p>
+        </ul>
+    </li>
+    {{ end }}
+  </ul>
+{{ end }}

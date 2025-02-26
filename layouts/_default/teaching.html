@@ -1,0 +1,14 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  <hr>
+  <ul>
+  {{ range .Pages }}
+  <li>
+    <h3><a href="{{ .RelPermalink }}">{{ .Params.courseNumber }}: {{ .Params.courseName}}</a></h3>
+    <p>Institution: {{ .Params.university }}</p>
+  </li> 
+  {{ end }}
+  </ul>
+  
+{{ end }}
